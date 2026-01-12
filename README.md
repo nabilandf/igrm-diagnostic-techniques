@@ -21,8 +21,9 @@ This repository contains R implementations of diagnostic methods for identifying
 - ### 🔤 Visualisasi
 Berikut **Plot** yang dihasilkan:
 
-![Plot](Plot dengan pengamatan berpengaruh.png)
-![Plot](Plot tanpa pengamatan berpengaruh.png)
+![Plot dengan pengamatan berpengaruh](plot_dengan_pengamatan_berpengaruh.png)
+
+![Plot tanpa pengamatan berpengaruh](plot_tanpa_pengamatan_berpengaruh.png)
 
 ## Author
 Nabila Nadhifa
