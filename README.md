@@ -18,5 +18,11 @@ This repository contains R implementations of diagnostic methods for identifying
 ## Case Study
 - Gross Regional Domestic Product (PDRB)
 
+- ### 🔤 Visualisasi
+Berikut **Plot** yang dihasilkan:
+
+![Plot](Plot dengan pengamatan berpengaruh.png)
+![Plot](Plot tanpa pengamatan berpengaruh.png)
+
 ## Author
 Nabila Nadhifa
